@@ -48,4 +48,4 @@ The downloaded video is saved in the current directory with the format:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
