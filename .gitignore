@@ -1,0 +1,30 @@
+# Ignore system/environment folders
+.virtual_documents/
+anaconda_projects/
+
+# Ignore entire DataScience_CG folder
+DataScience_CG/
+
+# Optional: if you want to track the root of DataScience_CG but ignore specific subfolders, use the following instead:
+# !DataScience_CG/
+# DataScience_CG/ipynb_checkpoints/
+# DataScience_CG/TASK 1 to TASK 8*/
+
+# General .ipynb_checkpoints ignore rule (covers all folders)
+**/.ipynb_checkpoints/
+
+# If "TASK 1 to TASK 8" are actual folder names like TASK 1, TASK 2, ..., TASK 8
+DataScience_CG/TASK 1*/
+DataScience_CG/TASK 2*/
+DataScience_CG/TASK 3*/
+DataScience_CG/TASK 4*/
+DataScience_CG/TASK 5*/
+DataScience_CG/TASK 6*/
+DataScience_CG/TASK 7*/
+DataScience_CG/TASK 8*/
+
+# ---------------------------------------
+# 🎯 Ignore sensitive credentials
+# Ignore client_secret.json inside YouTube Metadata Cleaner & Updater folder
+
+**/.json/
