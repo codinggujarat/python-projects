@@ -1,6 +1,6 @@
-# 🧰 Python & Flask Media Tool Suite
+# 🧰 Python & Flask Media Tool Suite + Classic Game Project
 
-A powerful collection of 5 AI-powered and utility-based media tools built using **Python** and **Flask**, including video generation, background removal, authentication, YouTube downloading, and metadata management.
+A powerful collection of **6 open-source Python projects** including tools for media generation, web apps, YouTube automation, and a classic Snake game built using **Python**, **Flask**, and various APIs.
 
 ---
 
@@ -74,6 +74,28 @@ Automatically updates your YouTube video **titles** and **descriptions** using t
 
 **Tech Stack:** Python, Google API Client  
 **Repo:** [`YouTube Metadata Cleaner`](./YouTube-Metadata-Cleaner-&-Updater)
+
+---
+
+### 6. 🐍 Snake Game Using Python Turtle
+
+Recreate the classic **Snake Game** using **Python’s Turtle module**! A step-by-step beginner-friendly project.
+
+**🎮 Features:**
+- Classic snake gameplay logic
+- Beginner-friendly turtle graphics
+- Great way to learn game loops and key handling
+
+**🎥 Video tutorial:** [Watch Now](https://youtu.be/alFmwf8f9BE)  
+**📂 Source Code:** [Download here](https://github.com/codinggujaratweb/Create-Responsive-Snake-Game-Python-Turtle)  
+**💼 LinkedIn:** [Aman Nayak](https://www.linkedin.com/in/amanayak/)  
+**📸 Instagram:** [CodingGujarat](https://instagram.com/codinggujarat/)  
+**📺 YouTube:** [CodingGujarat](https://www.youtube.com/@CodingGujarat)
+
+![preview img](/preview.png)
+
+⚠️ **Copyright Notice:**  
+This game and video tutorial are the exclusive property of CodingGujarat. Do not copy or reuse content without permission.
 
 ---
 
