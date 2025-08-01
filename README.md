@@ -84,8 +84,8 @@ Each project has its own setup instructions and dependencies. Refer to the `READ
 To get started:
 ```bash
 # Clone this repo
-git clone https://github.com/yourusername/media-tool-suite.git
-cd media-tool-suite
+git clone https://github.com/yourusername/python-projects.git
+cd python-projects
 
 # Then navigate into each tool's folder and follow its README
 cd AI-Text-to-Video-Tool-with-Flask-Backend-and-Image-Support
@@ -109,4 +109,4 @@ Feel free to fork this repo and submit PRs for fixes, improvements, or new tools
 ## 📧 Contact
 
 Maintained by [@codinggujarat](https://github.com/codinggujarat)  
-For queries, open an [issue](https://github.com/codinggujarat/media-tool-suite/issues)
+For queries, open an [issue](https://github.com/codinggujarat/python-projects/issues)
